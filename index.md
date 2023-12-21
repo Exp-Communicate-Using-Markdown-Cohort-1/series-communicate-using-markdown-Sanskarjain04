@@ -3,3 +3,6 @@
 ```
 console.log("Hey dont forget you came back to edit what's within the console.log just so that i does not sound boring");
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
